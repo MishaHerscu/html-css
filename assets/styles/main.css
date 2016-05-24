@@ -1,0 +1,69 @@
+body {
+  width: 75%;
+  text-align: center;
+  margin: auto;
+  font-family: Arial, sans-serif;
+  background-color: #F5F5DC;
+}
+​
+h1 {
+  color: #954535;
+  font-size: 70px;
+  font-family: cursive, Garamond, serif;
+}
+​
+ul {
+  list-style-type: none;
+}
+​
+.ing1{
+  color: red;
+}
+​
+.ing2{
+  color: orange;
+}
+.ing3{
+  color: yellow;
+}
+​
+.ing4{
+  color: lightgreen;
+}
+​
+.ing5{
+  color: green;
+}
+​
+.ing6{
+  color: lightblue;
+}
+​
+.ing7{
+  color: blue;
+}
+​
+.ing8{
+  color: violet;
+}
+​
+.ing9{
+  color: brown;
+}
+​
+.ing10{
+  color: black;
+}
+​
+.ing11{
+  color: grey;
+}
+​
+h4 {
+  text-decoration: underline;
+}
+​
+img {
+  width: 40%;
+  border-radius: 15px;
+}
